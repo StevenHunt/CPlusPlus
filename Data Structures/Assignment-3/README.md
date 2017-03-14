@@ -27,7 +27,7 @@ RelationType:       An enumeration type that consists of LESS, GREATER, EQUAL
 
 Member function of ItemType that must be included:
 
-RelationType ComparedTo(ItemType Item) 
+RelationType ComparedTo(ItemType Item)  
 
 Function:               Determines the ordering of two ItemType objects based on their keys
 
