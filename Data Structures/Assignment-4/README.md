@@ -137,7 +137,7 @@ Print
 if tree is not NULL
     Print(tree, outFile)
     word member of Info(tree).PrintToFile(TRUE, outFile)
-    outFile << word
+    outFile <<word
     Print(tree, outFile)
  
 You are now ready to code the algorithms.
