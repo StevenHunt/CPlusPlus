@@ -1,4 +1,4 @@
-Assignment 1 :  
+Assignment 1:  
 - Calculator 
 
 In this first project, we are setting the foundation for developing high-quality software by adhering to the basic principles of software engineering for designing and implementing programs to meet these goals.  This project will also address a critical need in software development:  the ability to design and implement correct programs and to verify that they are actually correct.
