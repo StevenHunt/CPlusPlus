@@ -1,5 +1,7 @@
 # CPlusPlus
-C++ Programs and Applications
+C++ Programs and Applications: 
+
+File Extension: .cpp
 
 CSIS 45: C++ Programming I
 
